@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/sprint1-git-hw/static/css/main.073c9b0a.css",
-    "main.js": "/sprint1-git-hw/static/js/main.af38053b.js",
+    "main.js": "/sprint1-git-hw/static/js/main.8b1b042b.js",
     "static/js/787.177e23c2.chunk.js": "/sprint1-git-hw/static/js/787.177e23c2.chunk.js",
     "index.html": "/sprint1-git-hw/index.html",
     "main.073c9b0a.css.map": "/sprint1-git-hw/static/css/main.073c9b0a.css.map",
-    "main.af38053b.js.map": "/sprint1-git-hw/static/js/main.af38053b.js.map",
+    "main.8b1b042b.js.map": "/sprint1-git-hw/static/js/main.8b1b042b.js.map",
     "787.177e23c2.chunk.js.map": "/sprint1-git-hw/static/js/787.177e23c2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.af38053b.js"
+    "static/js/main.8b1b042b.js"
   ]
 }
