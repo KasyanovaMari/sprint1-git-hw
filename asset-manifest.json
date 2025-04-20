@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/sprint1-git-hw/static/css/main.073c9b0a.css",
-    "main.js": "/sprint1-git-hw/static/js/main.8b1b042b.js",
+    "main.css": "/sprint1-git-hw/static/css/main.0eaee01e.css",
+    "main.js": "/sprint1-git-hw/static/js/main.4f076056.js",
     "static/js/787.177e23c2.chunk.js": "/sprint1-git-hw/static/js/787.177e23c2.chunk.js",
     "index.html": "/sprint1-git-hw/index.html",
-    "main.073c9b0a.css.map": "/sprint1-git-hw/static/css/main.073c9b0a.css.map",
-    "main.8b1b042b.js.map": "/sprint1-git-hw/static/js/main.8b1b042b.js.map",
+    "main.0eaee01e.css.map": "/sprint1-git-hw/static/css/main.0eaee01e.css.map",
+    "main.4f076056.js.map": "/sprint1-git-hw/static/js/main.4f076056.js.map",
     "787.177e23c2.chunk.js.map": "/sprint1-git-hw/static/js/787.177e23c2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.8b1b042b.js"
+    "static/css/main.0eaee01e.css",
+    "static/js/main.4f076056.js"
   ]
 }
